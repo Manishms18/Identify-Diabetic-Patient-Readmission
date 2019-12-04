@@ -15,14 +15,14 @@ Classifying the hospital re-admission probability of a DIABETIC patient by using
 
 Project was binary classification (Supervised Learning) problem.
 Major steps involved were as follow :                                 
-STEP: 1 - Data Cleaning 
-STEP: 2 - Feature Engineering and Feature Creation 
-STEP: 3 - Transformation and Outlier Removal 
-STEP: 4 - Exploratory Data Analysis and Sampling
-STEP: 5 - Model Building and Evaluation 
-STEP: 6 - Best Model and Deployment
-STEP: 7 - Interpretations and Insights 
-STEP: 8 - Improvements and Future Work 
+* STEP: 1 - Data Cleaning 
+* STEP: 2 - Feature Engineering and Feature Creation 
+* STEP: 3 - Transformation and Outlier Removal 
+* STEP: 4 - Exploratory Data Analysis and Sampling
+* STEP: 5 - Model Building and Evaluation 
+* STEP: 6 - Best Model and Deployment
+* STEP: 7 - Interpretations and Insights 
+* STEP: 8 - Improvements and Future Work 
 
 ## Demo
 

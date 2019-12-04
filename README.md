@@ -20,19 +20,10 @@ The theme at HACK UNT 19 was to use technology to improve accessibility by findi
 We wanted to make it easy for 70 million deaf people across the world to be independent of translators for there daily communication needs, so we designed the app to work as a personal translator 24*7 for the deaf people.
 
 ## Demo
-![Example screenshot](./img/demo.gif)
 
 
 
-![Example screenshot](./img/demo1.gif)
 
-
-
-![Example screenshot](./img/demo2.gif)
-
-
-
-![Example screenshot](./img/demo3.gif)
 
 
 **The entire demo of the project can be found on [YouTube](https://www.youtube.com/watch?v=qamLBQQZP14).**
@@ -40,14 +31,16 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 
 ## Screenshots
 
-![Example screenshot](./img/Capture1.PNG)
-![Example screenshot](./img/Capture.PNG)
+![Example screenshot](./images/Interface.png)
+![Example screenshot](./images/Outline.png)
+![Example screenshot](./images/Insights.png)
+![Example screenshot](./images/Heatmap.png)
 
 ## Technologies and Tools
 * Python 
-* TensorFlow
-* Keras
-* OpenCV
+* Flask
+* Scikit-learn
+* HTML
 
 ## Setup
 
@@ -162,7 +155,7 @@ Features that can be added:
 * Add more sign languages
 
 ## Status
-Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](http://bit.ly/2WWllwg). 
+Project is: _finished_.
 
 ## Contact
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you

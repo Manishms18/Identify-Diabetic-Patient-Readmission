@@ -3,6 +3,7 @@
 Classifying the hospital re-admission probability of a DIABETIC patient by using appropriate Data Science techniques.                 You can view the project demo on [YouTube](https://www.youtube.com/watch?v=qamLBQQZP14).
    
 ## Table of contents
+
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Demo](#demo)

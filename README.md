@@ -1,7 +1,6 @@
 # Identify-Diabetic-Patient-Readmission
 
-Classifying the hospital re-admission probability of a DIABETIC patient by using appropriate Data Science techniques. 
-You can view the project demo on [YouTube](https://www.youtube.com/watch?v=qamLBQQZP14).
+Classifying the hospital re-admission probability of a DIABETIC patient by using appropriate Data Science techniques.                 You can view the project demo on [YouTube](https://www.youtube.com/watch?v=qamLBQQZP14).
    
 ## Table of contents
 * [General info](#general-info)
@@ -15,7 +14,7 @@ You can view the project demo on [YouTube](https://www.youtube.com/watch?v=qamLB
 ## General info
 
 Project was binary classification (Supervised Learning) problem.
-Major steps involved were as follow :
+Major steps involved were as follow :                                 
 STEP: 1 - Data Cleaning 
 STEP: 2 - Feature Engineering and Feature Creation 
 STEP: 3 - Transformation and Outlier Removal 

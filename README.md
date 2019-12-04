@@ -21,7 +21,7 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 
 ## Demo
 
-![Example screenshot](./images/demo.gif)
+![Example screenshot](./images/Demo.gif)
 
 **The entire demo of the project can be found on [YouTube](https://www.youtube.com/watch?v=qamLBQQZP14).**
 

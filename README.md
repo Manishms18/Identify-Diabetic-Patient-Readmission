@@ -47,6 +47,8 @@ Major steps involved were as follow :
 ## Code Examples
 
 ````
+# Code for creating pickle file of model and transform  
+
 import pickle
 
 pickle.dump(scaler, open('tranform.pkl','wb'))
@@ -62,6 +64,8 @@ print("Predicted Result probability : ",predictions)
 
 ````
 ````
+# Flask code for using deployed pickle file and connecting to interface
+
 import numpy as np
 from flask import Flask, request, jsonify, render_template
 import pickle

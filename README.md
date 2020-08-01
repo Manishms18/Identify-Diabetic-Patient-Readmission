@@ -12,6 +12,7 @@ Classifying the hospital re-admission probability of a DIABETIC patient by using
 * [Status](#status)
 * [Contact](#contact)
 
+
 ## General info
 
 Project was binary classification (Supervised Learning) problem.
